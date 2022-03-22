@@ -1,0 +1,13 @@
+p {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.one {
+    background-color: blue;
+}
+
+.two {
+    opacity: 0.4;
+}
